@@ -1,4 +1,4 @@
-# PRODIGY_WD_05
+# Weather APP Front-end
 Weather App Overview
 This project is a simple yet functional weather app built using HTML, CSS, and JavaScript. The app allows users to get real-time weather information based on their location or by searching for a specific city.
 
